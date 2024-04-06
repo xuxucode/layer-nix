@@ -264,7 +264,6 @@
           # Native
           self.hydraJobs.binaryTarball."x86_64-linux"
           self.hydraJobs.binaryTarball."x86_64-darwin"
-          self.hydraJobs.binaryTarball."aarch64-linux"
           # Cross
           self.hydraJobs.binaryTarballCross."x86_64-linux"."armv6l-unknown-linux-gnueabihf"
           self.hydraJobs.binaryTarballCross."x86_64-linux"."armv7l-unknown-linux-gnueabihf"
